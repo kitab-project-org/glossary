@@ -65,6 +65,8 @@ See mARkdown.
 
 ## Plain text
 
+## Token
+
 ## TSV file
 
 Short for "Tab-Separated Values". A type of text file used to store tabular data,
