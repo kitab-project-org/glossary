@@ -82,6 +82,11 @@ see https://alraqmiyyat.github.io/mARkdown/
 
 ## Milestone
 
+All texts in the OpenITI corpus contain a **tag** after every 300th **token**. 
+These tags are called "milestones", and they take the form of the letters "ms" 
+followed by a sequential number: `ms001`, `ms002`, ...
+These milestones can be used to cut up the text into fixed-length chunks.
+
 ## OCR
 
 Short for "Optical Character Recognition", the process that converts an image of a text
