@@ -97,6 +97,8 @@ OpenIslamicate Text Initiative.
 
 See mARkdown.
 
+## Open-source
+
 ## Plain text
 
 Plain text is data that consists only of characters 
