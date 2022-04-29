@@ -80,6 +80,8 @@ see https://alraqmiyyat.github.io/mARkdown/
 
 ## Markup language
 
+## Metadata
+
 ## Milestone
 
 All texts in the OpenITI corpus contain a **tag** after every 300th **token**. 
