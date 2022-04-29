@@ -24,7 +24,6 @@ See **File extension**
 
 ## File
 
-
 ## File extension
 
 Suffix to a file name, usually separated from the file name by a dot/full stop
@@ -32,6 +31,10 @@ Suffix to a file name, usually separated from the file name by a dot/full stop
 The extension is used to indicate how data is stored in the file
 (e.g., the extension "**csv**" indicates that the data in the file
 is tabular, and columns are separated by a comma).
+
+## HTR
+
+Short for Hand-Written Text recognition: basically, **OCR** for manuscripts.
 
 ## Islamicate
 
@@ -78,6 +81,11 @@ see https://alraqmiyyat.github.io/mARkdown/
 ## Markup language
 
 ## Milestone
+
+## OCR
+
+Short for "Optical Character Recognition", the process that converts an image of a text
+into **plain text** text that can be searched, selected, copied, etc.
 
 ## OpenIslamicate Text Initiative: see OpenITI
 
