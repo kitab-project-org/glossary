@@ -99,6 +99,8 @@ See mARkdown.
 
 ## Open-source
 
+## passim
+
 ## Plain text
 
 Plain text is data that consists only of characters 
@@ -116,6 +118,8 @@ XLSX (MS Excel format), ... files.
 ## Tag
 
 ## Tagging
+
+## Text reuse
 
 ## Token
 
