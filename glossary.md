@@ -1,5 +1,7 @@
 # Glossary
 
+## Adab
+
 ## ASCII
 
 ## Character encoding
@@ -37,6 +39,8 @@ is tabular, and columns are separated by a comma).
 Short for Hand-Written Text recognition: basically, **OCR** for manuscripts.
 
 ## Islamicate
+
+This term, coined by Marshall Hodgson, is used to refer to objects, ideas and people present in societies in which Islam was a dominant force.
 
 ## JSON
 
@@ -94,11 +98,11 @@ These milestones can be used to cut up the text into fixed-length chunks.
 Short for "Optical Character Recognition", the process that converts an image of a text
 into **plain text** text that can be searched, selected, copied, etc.
 
-## OpenIslamicate Text Initiative: see OpenITI
+## Open Islamicate Text Initiative: see OpenITI
 
 ## OpenITI
 
-OpenIslamicate Text Initiative. 
+Open Islamicate Text Initiative. A field-wide initiative to create infrastructure for digital analysis of Islamicate texts, including a large corpus of digital texts (bi-yearly releases: https://doi.org/10.5281/zenodo.3082463).
 
 ## OpenITI mARkdown
 
@@ -115,6 +119,10 @@ Plain text is data that consists only of characters
 Plain text is usually created, read and edited using 
 a **text editor**.
 All OpenITI text and metadata files are stored as plain text.
+
+## Shamela
+
+Short for *al-maktaba al-Shāmila*, one of the largest and most widely used collections of digitized Arabic-language texts (https://www.shamela.ws).
 
 ## Tabular data
 
